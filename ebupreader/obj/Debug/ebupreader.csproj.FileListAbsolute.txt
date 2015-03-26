@@ -1,0 +1,15 @@
+c:\users\$uman\documents\visual studio 2013\Projects\ebupreader\ebupreader\bin\Debug\ebupreader.exe
+c:\users\$uman\documents\visual studio 2013\Projects\ebupreader\ebupreader\bin\Debug\ebupreader.pdb
+c:\users\$uman\documents\visual studio 2013\Projects\ebupreader\ebupreader\bin\Debug\eBdb.EpubReader.dll
+c:\users\$uman\documents\visual studio 2013\Projects\ebupreader\ebupreader\bin\Debug\Ionic.Zip.dll
+c:\users\$uman\documents\visual studio 2013\Projects\ebupreader\ebupreader\obj\Debug\ebupreader.csprojResolveAssemblyReference.cache
+c:\users\$uman\documents\visual studio 2013\Projects\ebupreader\ebupreader\obj\Debug\ebupreader.Properties.Resources.resources
+c:\users\$uman\documents\visual studio 2013\Projects\ebupreader\ebupreader\obj\Debug\ebupreader.csproj.GenerateResource.Cache
+c:\users\$uman\documents\visual studio 2013\Projects\ebupreader\ebupreader\obj\Debug\ebupreader.exe
+c:\users\$uman\documents\visual studio 2013\Projects\ebupreader\ebupreader\obj\Debug\ebupreader.pdb
+c:\users\$uman\documents\visual studio 2013\Projects\ebupreader\ebupreader\obj\Debug\ebupreader.Form1.resources
+C:\Users\$uman\documents\visual studio 2013\Projects\ebupreader\ebupreader\bin\Debug\ebupreader.exe.manifest
+C:\Users\$uman\documents\visual studio 2013\Projects\ebupreader\ebupreader\bin\Debug\ebupreader.application
+C:\Users\$uman\documents\visual studio 2013\Projects\ebupreader\ebupreader\obj\Debug\ebupreader.exe.manifest
+C:\Users\$uman\documents\visual studio 2013\Projects\ebupreader\ebupreader\obj\Debug\ebupreader.application
+C:\Users\$uman\documents\visual studio 2013\Projects\ebupreader\ebupreader\obj\Debug\ebupreader.Form2.resources
